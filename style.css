@@ -92,7 +92,7 @@ a {
   color: rgb(40, 88, 40);
   transition-property: scale(1);
   transition-duration: 250ms;
-  padding: 5px 1px 5px 1px;
+  padding: 5px;
 }
 
 a:hover {
